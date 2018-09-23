@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5402db9-4a7a-4f4a-9193-82551dd484a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mac_changer.py" beforeDir="false" afterPath="$PROJECT_DIR$/mac_changer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,12 +40,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="393" />
+          <entry key="py" value="674" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="393" />
+          <entry key="Python" value="674" />
         </counts>
       </usages-collector>
     </session>
@@ -56,11 +55,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mac_changer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            <state relative-caret-position="285">
+              <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
               <folding>
                 <element signature="e#23#40#0" expanded="true" />
-                <marker date="1537675141592" expanded="true" signature="908:910" ph="..." />
+                <element signature="e#82#576#0" />
+                <element signature="e#617#907#0" />
+                <marker date="1537675454557" expanded="true" signature="918:920" ph="..." />
               </folding>
             </state>
           </provider>
@@ -195,11 +196,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mac_changer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        <state relative-caret-position="285">
+          <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
           <folding>
             <element signature="e#23#40#0" expanded="true" />
-            <marker date="1537675141592" expanded="true" signature="908:910" ph="..." />
+            <element signature="e#82#576#0" />
+            <element signature="e#617#907#0" />
+            <marker date="1537675454557" expanded="true" signature="918:920" ph="..." />
           </folding>
         </state>
       </provider>
